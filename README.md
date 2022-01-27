@@ -1,2 +1,9 @@
 # micro2-lecnotes
-Lecture notes of Prof.Michael Magill's course Microeconomic Theory II, scribed by Sai Zhang
+
+These notes are strictly for personal use, all rights are reserved for Prof.Michael Magill, the instructor of the course.
+
+See Prof. Magill's personal page: https://dornsife.usc.edu/michael-magill/.
+
+and course page: https://dornsife.usc.edu/michael-magill/econ-603/
+
+for more information.
